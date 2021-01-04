@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 29c63586a8653934298601a227a2c005
+timeCreated: 1448556302
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: ST_handrails_01
+    100002: ST_handrails_2_01
+    100004: ST_ladder_Ens_01
+    100006: ST_ladder_Ens_02
+    100008: ST_pilars_01
+    100010: ST_slab_2_beams_01
+    100012: ST_slab_2_beams_02
+    100014: ST_slab_2_steel_covering_01
+    100016: ST_slab_2_steel_covering_01B
+    100018: ST_slab_2_supports_01
+    100020: ST_slab_beams_01
+    100022: ST_slab_steel_covering_01
+    100024: ST_slab_steel_covering_01B
+    100026: ST_top_structure_01
+    100028: ST_top_structure_02
+    100030: ST_top_structure_02_handrails_01
+    100032: ST_top_structure_02_slab_steel_01
+    100034: ST_top_structure_03
+    100036: ST_top_structure_handrails_01
+    100038: ST_top_structure_handrails_02
+    100040: ST_top_structure_slab_steel_01
+    100042: //RootNode
+    400000: ST_handrails_01
+    400002: ST_handrails_2_01
+    400004: ST_ladder_Ens_01
+    400006: ST_ladder_Ens_02
+    400008: ST_pilars_01
+    400010: ST_slab_2_beams_01
+    400012: ST_slab_2_beams_02
+    400014: ST_slab_2_steel_covering_01
+    400016: ST_slab_2_steel_covering_01B
+    400018: ST_slab_2_supports_01
+    400020: ST_slab_beams_01
+    400022: ST_slab_steel_covering_01
+    400024: ST_slab_steel_covering_01B
+    400026: ST_top_structure_01
+    400028: ST_top_structure_02
+    400030: ST_top_structure_02_handrails_01
+    400032: ST_top_structure_02_slab_steel_01
+    400034: ST_top_structure_03
+    400036: ST_top_structure_handrails_01
+    400038: ST_top_structure_handrails_02
+    400040: ST_top_structure_slab_steel_01
+    400042: //RootNode
+    2300000: ST_handrails_01
+    2300002: ST_handrails_2_01
+    2300004: ST_ladder_Ens_01
+    2300006: ST_ladder_Ens_02
+    2300008: ST_pilars_01
+    2300010: ST_slab_2_beams_01
+    2300012: ST_slab_2_beams_02
+    2300014: ST_slab_2_steel_covering_01
+    2300016: ST_slab_2_steel_covering_01B
+    2300018: ST_slab_2_supports_01
+    2300020: ST_slab_beams_01
+    2300022: ST_slab_steel_covering_01
+    2300024: ST_slab_steel_covering_01B
+    2300026: ST_top_structure_01
+    2300028: ST_top_structure_02
+    2300030: ST_top_structure_02_handrails_01
+    2300032: ST_top_structure_02_slab_steel_01
+    2300034: ST_top_structure_03
+    2300036: ST_top_structure_handrails_01
+    2300038: ST_top_structure_handrails_02
+    2300040: ST_top_structure_slab_steel_01
+    3300000: ST_handrails_01
+    3300002: ST_handrails_2_01
+    3300004: ST_ladder_Ens_01
+    3300006: ST_ladder_Ens_02
+    3300008: ST_pilars_01
+    3300010: ST_slab_2_beams_01
+    3300012: ST_slab_2_beams_02
+    3300014: ST_slab_2_steel_covering_01
+    3300016: ST_slab_2_steel_covering_01B
+    3300018: ST_slab_2_supports_01
+    3300020: ST_slab_beams_01
+    3300022: ST_slab_steel_covering_01
+    3300024: ST_slab_steel_covering_01B
+    3300026: ST_top_structure_01
+    3300028: ST_top_structure_02
+    3300030: ST_top_structure_02_handrails_01
+    3300032: ST_top_structure_02_slab_steel_01
+    3300034: ST_top_structure_03
+    3300036: ST_top_structure_handrails_01
+    3300038: ST_top_structure_handrails_02
+    3300040: ST_top_structure_slab_steel_01
+    4300000: ST_top_structure_03
+    4300002: ST_ladder_Ens_02
+    4300004: ST_ladder_Ens_01
+    4300006: ST_top_structure_02_handrails_01
+    4300008: ST_top_structure_02_slab_steel_01
+    4300010: ST_top_structure_02
+    4300012: ST_top_structure_handrails_02
+    4300014: ST_top_structure_handrails_01
+    4300016: ST_slab_2_steel_covering_01B
+    4300018: ST_top_structure_slab_steel_01
+    4300020: ST_top_structure_01
+    4300022: ST_slab_2_supports_01
+    4300024: ST_handrails_2_01
+    4300026: ST_slab_2_steel_covering_01
+    4300028: ST_slab_2_beams_02
+    4300030: ST_slab_2_beams_01
+    4300032: ST_slab_steel_covering_01B
+    4300034: ST_slab_steel_covering_01
+    4300036: ST_handrails_01
+    4300038: ST_pilars_01
+    4300040: ST_slab_beams_01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

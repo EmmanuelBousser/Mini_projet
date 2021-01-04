@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 6a22b4fe21d5d984f97727c84700b624
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ST_00_Big_Coloumns_01
+    100002: ST_00_N1_handrails_01
+    100004: ST_00_N1_ladder_01
+    100006: ST_00_N1_slab_steel_01
+    100008: ST_00_N1_slab_steel_01B
+    100010: ST_00_N1_slab_structure_01
+    100012: ST_00_N1_stairs_handrails_01
+    100014: ST_00_N1_stairs_step_01
+    100016: ST_00_N1_stairs_structure_01
+    100018: ST_00_N2_handrails_01
+    100020: ST_00_N2_slab_steel_01
+    100022: ST_00_N2_slab_structure_01
+    100024: ST_00_N3_handrails_01
+    100026: ST_00_N3_handrails_01B
+    100028: ST_00_N3_handrails_01B_MeshPart0
+    100030: ST_00_N3_handrails_01B_MeshPart1
+    100032: ST_00_N3_Rack_01
+    100034: ST_00_N3_slab_steel_01
+    100036: ST_00_N3_slab_steel_01B
+    100038: ST_00_N3_slab_structure_01
+    100040: ST_00_N3_slabs_steel_01
+    100042: ST_00_N3_stairs_step_01
+    100044: ST_00_N3_structure_01
+    100046: ST_00_Stairs_tower_handrails_01
+    100048: ST_00_Stairs_tower_handrails_01_MeshPart0
+    100050: ST_00_Stairs_tower_handrails_01_MeshPart1
+    100052: ST_00_Stairs_tower_steps_01
+    100054: ST_00_Stairs_tower_structure_01
+    100056: ST_00_Stairs_tower_structure_01_MeshPart0
+    100058: ST_00_Stairs_tower_structure_01_MeshPart1
+    100060: //RootNode
+    400000: ST_00_Big_Coloumns_01
+    400002: ST_00_N1_handrails_01
+    400004: ST_00_N1_ladder_01
+    400006: ST_00_N1_slab_steel_01
+    400008: ST_00_N1_slab_steel_01B
+    400010: ST_00_N1_slab_structure_01
+    400012: ST_00_N1_stairs_handrails_01
+    400014: ST_00_N1_stairs_step_01
+    400016: ST_00_N1_stairs_structure_01
+    400018: ST_00_N2_handrails_01
+    400020: ST_00_N2_slab_steel_01
+    400022: ST_00_N2_slab_structure_01
+    400024: ST_00_N3_handrails_01
+    400026: ST_00_N3_handrails_01B
+    400028: ST_00_N3_handrails_01B_MeshPart0
+    400030: ST_00_N3_handrails_01B_MeshPart1
+    400032: ST_00_N3_Rack_01
+    400034: ST_00_N3_slab_steel_01
+    400036: ST_00_N3_slab_steel_01B
+    400038: ST_00_N3_slab_structure_01
+    400040: ST_00_N3_slabs_steel_01
+    400042: ST_00_N3_stairs_step_01
+    400044: ST_00_N3_structure_01
+    400046: ST_00_Stairs_tower_handrails_01
+    400048: ST_00_Stairs_tower_handrails_01_MeshPart0
+    400050: ST_00_Stairs_tower_handrails_01_MeshPart1
+    400052: ST_00_Stairs_tower_steps_01
+    400054: ST_00_Stairs_tower_structure_01
+    400056: ST_00_Stairs_tower_structure_01_MeshPart0
+    400058: ST_00_Stairs_tower_structure_01_MeshPart1
+    400060: //RootNode
+    2300000: ST_00_Big_Coloumns_01
+    2300002: ST_00_N1_handrails_01
+    2300004: ST_00_N1_ladder_01
+    2300006: ST_00_N1_slab_steel_01
+    2300008: ST_00_N1_slab_steel_01B
+    2300010: ST_00_N1_slab_structure_01
+    2300012: ST_00_N1_stairs_handrails_01
+    2300014: ST_00_N1_stairs_step_01
+    2300016: ST_00_N1_stairs_structure_01
+    2300018: ST_00_N2_handrails_01
+    2300020: ST_00_N2_slab_steel_01
+    2300022: ST_00_N2_slab_structure_01
+    2300024: ST_00_N3_handrails_01
+    2300026: ST_00_N3_handrails_01B_MeshPart0
+    2300028: ST_00_N3_handrails_01B_MeshPart1
+    2300030: ST_00_N3_Rack_01
+    2300032: ST_00_N3_slab_steel_01
+    2300034: ST_00_N3_slab_steel_01B
+    2300036: ST_00_N3_slab_structure_01
+    2300038: ST_00_N3_slabs_steel_01
+    2300040: ST_00_N3_stairs_step_01
+    2300042: ST_00_N3_structure_01
+    2300044: ST_00_Stairs_tower_handrails_01_MeshPart0
+    2300046: ST_00_Stairs_tower_handrails_01_MeshPart1
+    2300048: ST_00_Stairs_tower_steps_01
+    2300050: ST_00_Stairs_tower_structure_01_MeshPart0
+    2300052: ST_00_Stairs_tower_structure_01_MeshPart1
+    3300000: ST_00_Big_Coloumns_01
+    3300002: ST_00_N1_handrails_01
+    3300004: ST_00_N1_ladder_01
+    3300006: ST_00_N1_slab_steel_01
+    3300008: ST_00_N1_slab_steel_01B
+    3300010: ST_00_N1_slab_structure_01
+    3300012: ST_00_N1_stairs_handrails_01
+    3300014: ST_00_N1_stairs_step_01
+    3300016: ST_00_N1_stairs_structure_01
+    3300018: ST_00_N2_handrails_01
+    3300020: ST_00_N2_slab_steel_01
+    3300022: ST_00_N2_slab_structure_01
+    3300024: ST_00_N3_handrails_01
+    3300026: ST_00_N3_handrails_01B_MeshPart0
+    3300028: ST_00_N3_handrails_01B_MeshPart1
+    3300030: ST_00_N3_Rack_01
+    3300032: ST_00_N3_slab_steel_01
+    3300034: ST_00_N3_slab_steel_01B
+    3300036: ST_00_N3_slab_structure_01
+    3300038: ST_00_N3_slabs_steel_01
+    3300040: ST_00_N3_stairs_step_01
+    3300042: ST_00_N3_structure_01
+    3300044: ST_00_Stairs_tower_handrails_01_MeshPart0
+    3300046: ST_00_Stairs_tower_handrails_01_MeshPart1
+    3300048: ST_00_Stairs_tower_steps_01
+    3300050: ST_00_Stairs_tower_structure_01_MeshPart0
+    3300052: ST_00_Stairs_tower_structure_01_MeshPart1
+    4300000: ST_00_N1_slab_structure_01
+    4300002: ST_00_N1_slab_steel_01
+    4300004: ST_00_N1_slab_steel_01B
+    4300006: ST_00_N1_ladder_01
+    4300008: ST_00_N1_handrails_01
+    4300010: ST_00_N1_stairs_step_01
+    4300012: ST_00_N1_stairs_handrails_01
+    4300014: ST_00_N1_stairs_structure_01
+    4300016: ST_00_Big_Coloumns_01
+    4300018: ST_00_Stairs_tower_steps_01
+    4300020: ST_00_Stairs_tower_structure_01_MeshPart0
+    4300022: ST_00_Stairs_tower_structure_01_MeshPart1
+    4300024: ST_00_Stairs_tower_handrails_01_MeshPart0
+    4300026: ST_00_Stairs_tower_handrails_01_MeshPart1
+    4300028: ST_00_N2_slab_structure_01
+    4300030: ST_00_N2_slab_steel_01
+    4300032: ST_00_N2_handrails_01
+    4300034: ST_00_N3_slab_structure_01
+    4300036: ST_00_N3_slab_steel_01
+    4300038: ST_00_N3_handrails_01
+    4300040: ST_00_N3_slab_steel_01B
+    4300042: ST_00_N3_Rack_01
+    4300044: ST_00_N3_structure_01
+    4300046: ST_00_N3_slabs_steel_01
+    4300048: ST_00_N3_stairs_step_01
+    4300050: ST_00_N3_handrails_01B_MeshPart0
+    4300052: ST_00_N3_handrails_01B_MeshPart1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Steel_paint
+    second: {fileID: 2100000, guid: 865189e5d1a9aa341a1dc368761a4c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_handrails
+    second: {fileID: 2100000, guid: 9114f094ecec01949bcbed49da19530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Test_steel_slab
+    second: {fileID: 2100000, guid: 1e6a63471c7717443bfc5f0a144952e3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: cacc430e07f7a4b47947258a572ee444
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EQP_Process_012
+    100002: EQP_Process_012_base
+    100004: EQP_Process_012_board
+    100006: EQP_Process_012_piping_01
+    100008: EQP_Process_012_piping_02
+    100010: EQP_Process_012_piping_02_MeshPart0
+    100012: EQP_Process_012_piping_02_MeshPart1
+    100014: EQP_Process_012_piping_02_MeshPart2
+    100016: EQP_Process_012_piping_02_MeshPart3
+    100018: EQP_Process_012_piping_02_MeshPart4
+    100020: EQP_Process_012_piping_02_MeshPart5
+    100022: EQP_Process_012_piping_02_MeshPart6
+    100024: EQP_Process_012_piping_03
+    100026: EQP_Process_012_pumps
+    100028: EQP_Process_012_radiator_01
+    100030: EQP_Process_012_radiator_02
+    100032: EQP_Process_012_structure
+    100034: EQP_Process_012_tankcone
+    100036: //RootNode
+    400000: EQP_Process_012
+    400002: EQP_Process_012_base
+    400004: EQP_Process_012_board
+    400006: EQP_Process_012_piping_01
+    400008: EQP_Process_012_piping_02
+    400010: EQP_Process_012_piping_02_MeshPart0
+    400012: EQP_Process_012_piping_02_MeshPart1
+    400014: EQP_Process_012_piping_02_MeshPart2
+    400016: EQP_Process_012_piping_02_MeshPart3
+    400018: EQP_Process_012_piping_02_MeshPart4
+    400020: EQP_Process_012_piping_02_MeshPart5
+    400022: EQP_Process_012_piping_02_MeshPart6
+    400024: EQP_Process_012_piping_03
+    400026: EQP_Process_012_pumps
+    400028: EQP_Process_012_radiator_01
+    400030: EQP_Process_012_radiator_02
+    400032: EQP_Process_012_structure
+    400034: EQP_Process_012_tankcone
+    400036: //RootNode
+    2300000: EQP_Process_012
+    2300002: EQP_Process_012_base
+    2300004: EQP_Process_012_board
+    2300006: EQP_Process_012_piping_01
+    2300008: EQP_Process_012_piping_02_MeshPart0
+    2300010: EQP_Process_012_piping_02_MeshPart1
+    2300012: EQP_Process_012_piping_02_MeshPart2
+    2300014: EQP_Process_012_piping_02_MeshPart3
+    2300016: EQP_Process_012_piping_02_MeshPart4
+    2300018: EQP_Process_012_piping_02_MeshPart5
+    2300020: EQP_Process_012_piping_02_MeshPart6
+    2300022: EQP_Process_012_piping_03
+    2300024: EQP_Process_012_pumps
+    2300026: EQP_Process_012_radiator_01
+    2300028: EQP_Process_012_radiator_02
+    2300030: EQP_Process_012_structure
+    2300032: EQP_Process_012_tankcone
+    3300000: EQP_Process_012
+    3300002: EQP_Process_012_base
+    3300004: EQP_Process_012_board
+    3300006: EQP_Process_012_piping_01
+    3300008: EQP_Process_012_piping_02_MeshPart0
+    3300010: EQP_Process_012_piping_02_MeshPart1
+    3300012: EQP_Process_012_piping_02_MeshPart2
+    3300014: EQP_Process_012_piping_02_MeshPart3
+    3300016: EQP_Process_012_piping_02_MeshPart4
+    3300018: EQP_Process_012_piping_02_MeshPart5
+    3300020: EQP_Process_012_piping_02_MeshPart6
+    3300022: EQP_Process_012_piping_03
+    3300024: EQP_Process_012_pumps
+    3300026: EQP_Process_012_radiator_01
+    3300028: EQP_Process_012_radiator_02
+    3300030: EQP_Process_012_structure
+    3300032: EQP_Process_012_tankcone
+    4300000: EQP_Process_012_board
+    4300002: EQP_Process_012_radiator_02
+    4300004: EQP_Process_012_radiator_01
+    4300006: EQP_Process_012_tankcone
+    4300008: EQP_Process_012_piping_03
+    4300010: EQP_Process_012_piping_02_MeshPart0
+    4300012: EQP_Process_012_piping_02_MeshPart1
+    4300014: EQP_Process_012_piping_02_MeshPart2
+    4300016: EQP_Process_012_piping_02_MeshPart3
+    4300018: EQP_Process_012_piping_02_MeshPart4
+    4300020: EQP_Process_012_piping_02_MeshPart5
+    4300022: EQP_Process_012_piping_02_MeshPart6
+    4300024: EQP_Process_012_piping_01
+    4300026: EQP_Process_012_pumps
+    4300028: EQP_Process_012_base
+    4300030: EQP_Process_012_structure
+    4300032: EQP_Process_012
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_cabinet
+    second: {fileID: 2100000, guid: c5ac2471f8317c54cb0c6d0dc34edb42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_piping_01
+    second: {fileID: 2100000, guid: 8674fca50261a454987f5bf2a042e04b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_steel
+    second: {fileID: 2100000, guid: 4beb6f0a63bebc34d9aa5e8dddf226b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_tank
+    second: {fileID: 2100000, guid: f2c1ebac354439244933d58893611a0a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 0a8e86fe34e3aad45bec583330cb0f1b
+timeCreated: 1448556535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Piping_Ens_04
+    100002: Piping_Valves_Ens_01
+    100004: Valve_010
+    100006: Valve_01_animated
+    100008: Valve_02
+    100010: Valve_03
+    100012: Valve_04
+    100014: Valve_05
+    100016: Valve_06
+    100018: Valve_07
+    100020: Valve_08
+    100022: Valve_09
+    100024: Valve_body_01
+    100026: Valve_wheel_01
+    100028: //RootNode
+    400000: Piping_Ens_04
+    400002: Piping_Valves_Ens_01
+    400004: Valve_010
+    400006: Valve_01_animated
+    400008: Valve_02
+    400010: Valve_03
+    400012: Valve_04
+    400014: Valve_05
+    400016: Valve_06
+    400018: Valve_07
+    400020: Valve_08
+    400022: Valve_09
+    400024: Valve_body_01
+    400026: Valve_wheel_01
+    400028: //RootNode
+    2300000: Piping_Ens_04
+    2300002: Valve_010
+    2300004: Valve_02
+    2300006: Valve_03
+    2300008: Valve_04
+    2300010: Valve_05
+    2300012: Valve_06
+    2300014: Valve_07
+    2300016: Valve_08
+    2300018: Valve_09
+    2300020: Valve_body_01
+    2300022: Valve_wheel_01
+    3300000: Piping_Ens_04
+    3300002: Valve_010
+    3300004: Valve_02
+    3300006: Valve_03
+    3300008: Valve_04
+    3300010: Valve_05
+    3300012: Valve_06
+    3300014: Valve_07
+    3300016: Valve_08
+    3300018: Valve_09
+    3300020: Valve_body_01
+    3300022: Valve_wheel_01
+    4300000: Valve_02
+    4300002: Valve_03
+    4300004: Valve_04
+    4300006: Valve_05
+    4300008: Valve_06
+    4300010: Valve_07
+    4300012: Valve_08
+    4300014: Valve_09
+    4300016: Valve_010
+    4300018: Valve_body_01
+    4300020: Valve_wheel_01
+    4300022: Piping_Ens_04
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

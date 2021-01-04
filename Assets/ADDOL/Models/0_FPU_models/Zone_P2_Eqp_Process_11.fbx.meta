@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: d9c095d1b2978ab4e90797e52b0b5e50
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: EQP_Process_011
+    100002: Handrails_ladders
+    100004: Handrails_ladders_MeshPart0
+    100006: Handrails_ladders_MeshPart1
+    100008: Steel_slabs
+    100010: Structure
+    100012: Tanks_part_01
+    100014: Tanks_part_02
+    100016: Tanks_part_03
+    100018: transform1
+    100020: //RootNode
+    400000: EQP_Process_011
+    400002: Handrails_ladders
+    400004: Handrails_ladders_MeshPart0
+    400006: Handrails_ladders_MeshPart1
+    400008: Steel_slabs
+    400010: Structure
+    400012: Tanks_part_01
+    400014: Tanks_part_02
+    400016: Tanks_part_03
+    400018: transform1
+    400020: //RootNode
+    2300000: Handrails_ladders_MeshPart0
+    2300002: Handrails_ladders_MeshPart1
+    2300004: Steel_slabs
+    2300006: Structure
+    2300008: Tanks_part_01
+    2300010: Tanks_part_02
+    2300012: Tanks_part_03
+    3300000: Handrails_ladders_MeshPart0
+    3300002: Handrails_ladders_MeshPart1
+    3300004: Steel_slabs
+    3300006: Structure
+    3300008: Tanks_part_01
+    3300010: Tanks_part_02
+    3300012: Tanks_part_03
+    4300000: Steel_slabs
+    4300002: Structure
+    4300004: Handrails_ladders_MeshPart0
+    4300006: Handrails_ladders_MeshPart1
+    4300008: Tanks_part_03
+    4300010: Tanks_part_02
+    4300012: Tanks_part_01
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_tank
+    second: {fileID: 2100000, guid: f2c1ebac354439244933d58893611a0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_tank1
+    second: {fileID: 2100000, guid: bc4a74b8f3fd8de4dbfb1c3a98b1ace0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_tank2
+    second: {fileID: 2100000, guid: 55601baa7fa296e4ab8b965dd798a515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Steel_paint
+    second: {fileID: 2100000, guid: 865189e5d1a9aa341a1dc368761a4c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_handrails
+    second: {fileID: 2100000, guid: 9114f094ecec01949bcbed49da19530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Test_steel_slab
+    second: {fileID: 2100000, guid: 1e6a63471c7717443bfc5f0a144952e3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

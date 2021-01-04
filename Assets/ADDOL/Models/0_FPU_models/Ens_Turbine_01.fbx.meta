@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: a8797d99a8dfcce4f9ef99b1ee916482
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plateforme_handrails_ladders_01
+    100004: Plateforme_slab_steel_01
+    100006: Plateforme_Structure_01
+    100008: Socle
+    100010: TR_01
+    100012: TR_010
+    100014: TR_010_MeshPart0
+    100016: TR_010_MeshPart1
+    100018: TR_010_MeshPart2
+    100020: TR_01_MeshPart0
+    100022: TR_01_MeshPart1
+    100024: TR_01_MeshPart2
+    100026: TR_01_MeshPart3
+    100028: TR_01_MeshPart4
+    100030: TR_02
+    100032: TR_03
+    100034: TR_03_MeshPart0
+    100036: TR_03_MeshPart1
+    100038: TR_03_MeshPart2
+    100040: TR_04
+    100042: TR_05
+    100044: TR_06
+    100046: TR_07
+    100048: TR_08
+    100050: TR_09
+    100052: TR_09_MeshPart0
+    100054: TR_09_MeshPart1
+    100056: TR_09_MeshPart2
+    100058: Turbine_Skid_01
+    100060: Turbine_Skid_01_MeshPart0
+    100062: Turbine_Skid_01_MeshPart1
+    100064: Turbine_Skid_03
+    100066: Turbine_Skid_03_MeshPart0
+    100068: Turbine_Skid_03_MeshPart1
+    100070: Turbine_Skid_04
+    100072: Turbine_Skid_cabinet_02
+    400000: //RootNode
+    400002: Plateforme_handrails_ladders_01
+    400004: Plateforme_slab_steel_01
+    400006: Plateforme_Structure_01
+    400008: Socle
+    400010: TR_01
+    400012: TR_010
+    400014: TR_010_MeshPart0
+    400016: TR_010_MeshPart1
+    400018: TR_010_MeshPart2
+    400020: TR_01_MeshPart0
+    400022: TR_01_MeshPart1
+    400024: TR_01_MeshPart2
+    400026: TR_01_MeshPart3
+    400028: TR_01_MeshPart4
+    400030: TR_02
+    400032: TR_03
+    400034: TR_03_MeshPart0
+    400036: TR_03_MeshPart1
+    400038: TR_03_MeshPart2
+    400040: TR_04
+    400042: TR_05
+    400044: TR_06
+    400046: TR_07
+    400048: TR_08
+    400050: TR_09
+    400052: TR_09_MeshPart0
+    400054: TR_09_MeshPart1
+    400056: TR_09_MeshPart2
+    400058: Turbine_Skid_01
+    400060: Turbine_Skid_01_MeshPart0
+    400062: Turbine_Skid_01_MeshPart1
+    400064: Turbine_Skid_03
+    400066: Turbine_Skid_03_MeshPart0
+    400068: Turbine_Skid_03_MeshPart1
+    400070: Turbine_Skid_04
+    400072: Turbine_Skid_cabinet_02
+    2300000: Plateforme_handrails_ladders_01
+    2300002: Plateforme_slab_steel_01
+    2300004: Plateforme_Structure_01
+    2300006: Socle
+    2300008: TR_010_MeshPart0
+    2300010: TR_010_MeshPart1
+    2300012: TR_010_MeshPart2
+    2300014: TR_01_MeshPart0
+    2300016: TR_01_MeshPart1
+    2300018: TR_01_MeshPart2
+    2300020: TR_01_MeshPart3
+    2300022: TR_01_MeshPart4
+    2300024: TR_02
+    2300026: TR_03_MeshPart0
+    2300028: TR_03_MeshPart1
+    2300030: TR_03_MeshPart2
+    2300032: TR_04
+    2300034: TR_05
+    2300036: TR_06
+    2300038: TR_07
+    2300040: TR_08
+    2300042: TR_09_MeshPart0
+    2300044: TR_09_MeshPart1
+    2300046: TR_09_MeshPart2
+    2300048: Turbine_Skid_01_MeshPart0
+    2300050: Turbine_Skid_01_MeshPart1
+    2300052: Turbine_Skid_03_MeshPart0
+    2300054: Turbine_Skid_03_MeshPart1
+    2300056: Turbine_Skid_04
+    2300058: Turbine_Skid_cabinet_02
+    3300000: Plateforme_handrails_ladders_01
+    3300002: Plateforme_slab_steel_01
+    3300004: Plateforme_Structure_01
+    3300006: Socle
+    3300008: TR_010_MeshPart0
+    3300010: TR_010_MeshPart1
+    3300012: TR_010_MeshPart2
+    3300014: TR_01_MeshPart0
+    3300016: TR_01_MeshPart1
+    3300018: TR_01_MeshPart2
+    3300020: TR_01_MeshPart3
+    3300022: TR_01_MeshPart4
+    3300024: TR_02
+    3300026: TR_03_MeshPart0
+    3300028: TR_03_MeshPart1
+    3300030: TR_03_MeshPart2
+    3300032: TR_04
+    3300034: TR_05
+    3300036: TR_06
+    3300038: TR_07
+    3300040: TR_08
+    3300042: TR_09_MeshPart0
+    3300044: TR_09_MeshPart1
+    3300046: TR_09_MeshPart2
+    3300048: Turbine_Skid_01_MeshPart0
+    3300050: Turbine_Skid_01_MeshPart1
+    3300052: Turbine_Skid_03_MeshPart0
+    3300054: Turbine_Skid_03_MeshPart1
+    3300056: Turbine_Skid_04
+    3300058: Turbine_Skid_cabinet_02
+    4300000: TR_01_MeshPart0
+    4300002: TR_01_MeshPart1
+    4300004: TR_01_MeshPart2
+    4300006: TR_01_MeshPart3
+    4300008: TR_01_MeshPart4
+    4300010: TR_02
+    4300012: TR_03_MeshPart0
+    4300014: TR_03_MeshPart1
+    4300016: TR_03_MeshPart2
+    4300018: TR_04
+    4300020: TR_05
+    4300022: TR_06
+    4300024: TR_07
+    4300026: TR_08
+    4300028: TR_09_MeshPart0
+    4300030: TR_09_MeshPart1
+    4300032: TR_09_MeshPart2
+    4300034: TR_010_MeshPart0
+    4300036: TR_010_MeshPart1
+    4300038: TR_010_MeshPart2
+    4300040: Socle
+    4300042: Plateforme_Structure_01
+    4300044: Plateforme_slab_steel_01
+    4300046: Plateforme_handrails_ladders_01
+    4300048: Turbine_Skid_01_MeshPart0
+    4300050: Turbine_Skid_01_MeshPart1
+    4300052: Turbine_Skid_cabinet_02
+    4300054: Turbine_Skid_03_MeshPart0
+    4300056: Turbine_Skid_03_MeshPart1
+    4300058: Turbine_Skid_04
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Eqp_steel
+    second: {fileID: 2100000, guid: 4beb6f0a63bebc34d9aa5e8dddf226b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Steel_paint
+    second: {fileID: 2100000, guid: 865189e5d1a9aa341a1dc368761a4c36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_handrails
+    second: {fileID: 2100000, guid: 9114f094ecec01949bcbed49da19530d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: e05b6fad1a71e314e90b4229fd683697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 7316a1182d5c2d7449772bb7c8858f58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert13
+    second: {fileID: 2100000, guid: be27eb7dd583c6245b64e5ad8cc210fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert14
+    second: {fileID: 2100000, guid: 026770e162bff994da5d20057d85014b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert15
+    second: {fileID: 2100000, guid: abc6042584db0b94ebfe17f335a65873, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert16
+    second: {fileID: 2100000, guid: 97f8c16a4d3841342bc56fc563d5c1f5, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
